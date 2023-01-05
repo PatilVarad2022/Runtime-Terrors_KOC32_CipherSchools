@@ -1,0 +1,2 @@
+html is used it make the body of webpages
+css is used to give design to web page
